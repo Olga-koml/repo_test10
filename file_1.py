@@ -1,4 +1,9 @@
 import pygame
+b = 4
+c = 5
+a = b + c
+print(a)
+#тестовый комментарий
  
 pygame.init()
  
@@ -17,5 +22,8 @@ while not game_over:
 pygame.quit()
 quit()
 
-#тестовый комментарий
+
+
+
+
 
