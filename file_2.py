@@ -19,4 +19,7 @@ if __name__ == '__main__':
     a, b = read_input()
     print(multiply(a, b))
 
+def file_add():
+    print('Add file')
+
 
