@@ -17,3 +17,4 @@ while not game_over:
 pygame.quit()
 quit()
 
+"""It's a good time to make a practice again!"""

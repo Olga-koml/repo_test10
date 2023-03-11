@@ -11,3 +11,5 @@ if s > 30:
     print('Too much!')
 else:
     print('I need more!')
+
+"""It's a good time to make a practice!"""
