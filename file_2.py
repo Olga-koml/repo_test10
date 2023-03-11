@@ -2,6 +2,17 @@ x = 10
 y = 100
 print(y/x)
 
+
+z = 30
+p = 900
+s = (y/x + p/z)
+print(s)
+
+if s > 30:
+    print('Too much!')
+else:
+    print('I need more!')
+
 def multiply(a, b):
     return a * b
 
@@ -21,5 +32,6 @@ if __name__ == '__main__':
 
 def file_add():
     print('Add file')
+
 
 
